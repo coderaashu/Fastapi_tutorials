@@ -1,1 +1,1 @@
-from nx.cors import app
+from testo.add import app
